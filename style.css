@@ -123,6 +123,14 @@ body
     padding: 30px;
     margin: 40px;
 }
+
+.experience-pics{
+    display: grid;
+    grid-template-columns: 25% 25% 28% 25%;
+    align-items: center;
+    padding: center;
+    margin-top: 40px;
+}
 .map-pic{
     padding-right: 200px;
     margin-bottom: 300px;
